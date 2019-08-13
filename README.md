@@ -13,9 +13,9 @@ The buttons, other than the numerical ones, will perform the following tasks:
 
 * ‘A’ is for addition
 * ‘B’ is for subtraction
-* ‘C’ is for clear
+* ‘C’ is for multiply
 * ‘D’ is for divide
-* ‘*’ is for multiply
+
 
 
 
