@@ -27,11 +27,11 @@ You can change these, according to you by changing in [Arduino IDE](https://www.
 
 Following Hardware will be required to perform this circuit.
 
-1.   Arduino UNO     1
+1.   Arduino UNO     
 2.   8 by 2 LCD screen
-3.   4X4 Keypad Matrix   1
-4.   Male to Female Jumper   4
-5.   Male to Male Jumper     8
+3.   4X4 Keypad Matrix   
+4.   Male to Female Jumper   
+5.   Male to Male Jumper     
 6.    USB A to B cable (cable differs between arduino models)
 7.    9v battery power plug 
 
